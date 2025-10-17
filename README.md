@@ -59,12 +59,12 @@ Each model was evaluated using:
 
 ## 📊 Results Summary
 
-| Model | Developer | Accuracy | MAPE | R² Score | Notebook |
-|:------|:-----------|:---------:|:------:|:--------:|:----------|
-| **Feedforward Neural Network (FNN)** | [@chamodi54](https://github.com/chamodi54) | **98.14%** | **1.86%** | **0.9827** | [View Commit](https://github.com/swiz9/Flight-Delay-Prediction-System/commits?author=chamodi54) |
-| **Simple RNN** | [@Tashika-Wijesooriya](https://github.com/Tashika-Wijesooriya) | **89.42%** | **10.58%** | — | [View Commit](https://github.com/swiz9/Flight-Delay-Prediction-System/commits?author=Tashika-Wijesooriya) |
-| **LSTM** | [@swiz9](https://github.com/swiz9) | **92.93%** | — | — | [View Commit](https://github.com/swiz9/Flight-Delay-Prediction-System/commits?author=swiz9) |
-| **Bidirectional LSTM (BiLSTM)** | [@vihangait22902252](https://github.com/vihangait22902252) | **93.31%** | — | — | [View Commit](https://github.com/swiz9/Flight-Delay-Prediction-System/commits?author=vihangait22902252) |
+| Model | Developer | Accuracy | MAPE | R² Score | 
+|:------|:-----------|:---------:|:------:|:--------:|
+| **Feedforward Neural Network (FNN)** | [@chamodi54](https://github.com/chamodi54) | **98.14%** | **1.86%** | **0.9827** |
+| **Simple RNN** | [@Tashika-Wijesooriya](https://github.com/Tashika-Wijesooriya) | **89.42%** | **10.58%** | — |
+| **LSTM** | [@swiz9](https://github.com/swiz9) | **92.93%** | — | — |
+| **Bidirectional LSTM (BiLSTM)** | [@vihangait22902252](https://github.com/vihangait22902252) | **93.31%** | — | — |
 
 ### 🧾 Key Insights
 - **FNN** achieved the highest accuracy (**98.14%**) due to engineered features like *time-of-day* and *day-of-week*.  
